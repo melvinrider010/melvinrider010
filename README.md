@@ -1,132 +1,76 @@
-<div align="center"> <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:58A6FF&height=3&section=header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:081B4B,100:2563EB&height=220&section=header&text=Melvin%20S%20Moses&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<br><br>
+<h1 align="center">Hi 👋, I'm Melvin S Moses</h1>
+<h3 align="center">Data Engineer | Flutter Developer | Cybersecurity Enthusiast</h3>
 
-<h1 align="center">MELVIN S MOSES</h1> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=40&lines=Data+Engineer;Backend+%26+Enterprise+Systems;Distributed+Systems+%2B+AI+Tooling" alt="typing-svg" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=melvinrider010&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
+</p>
 
-<br><br>
+---
 
-<a href="https://github.com/melvinrider010"><b>GitHub</b></a>  ·  <a href="#"><b>LinkedIn</b></a>  ·  <a href="#"><b>Portfolio</b></a>  ·  <a href="#"><b>Email</b></a>
+## 🚀 About Me
 
-<br><br>
+- 🎓 MCA Student at **St. Philomena's College, Mysore**
+- 💼 Working as a **Data Engineer**
+- 🔭 Building **VoteX – AI Based Digital Election Platform**
+- 🌱 Learning **AI, Data Engineering, Flutter & Cybersecurity**
+- ⚡ Love building real-world apps and automation systems
 
-<img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0:30363D,100:30363D&height=1"/> </div> <br>
-About
-<blockquote>
+---
 
-Data Engineer with a Master of Computer Applications from St. Philomena's College (Autonomous), Mysore. I work primarily on data pipelines, backend systems, and the enterprise applications built around them — with a growing focus on AI tooling and distributed systems.
+## 📊 Live GitHub Dashboard
 
-</blockquote> <table width="100%"> <tr> <td width="33%" valign="top"> <blockquote>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=melvinrider010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinrider010&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-Role Data Engineer
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=melvinrider010&theme=tokyonight&hide_border=true"/>
+</p>
 
-</blockquote> </td> <td width="33%" valign="top"> <blockquote>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=melvinrider010&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
-Education MCA, St. Philomena's College
+---
 
-</blockquote> </td> <td width="33%" valign="top"> <blockquote>
+## 🛠️ Tech Stack
 
-Focus Backend · Data · AI Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,java,cpp,js,html,css,mysql,mongodb,git,linux"/>
+</p>
 
-</blockquote> </td> </tr> </table> <br> <img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0:30363D,100:30363D&height=1"/> <br>
-Tech Stack
-<table width="100%"> <tr> <td width="20%" valign="top">
+---
 
-Languages
+## 🔥 Recent GitHub Activity
 
-Python Dart JavaScript Java C++
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-</td> <td width="20%" valign="top">
+---
 
-Frameworks
+## 📌 Latest Repositories
 
-Flutter React Next.js
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
 
-</td> <td width="20%" valign="top">
+---
 
-Backend
+## 🌐 Connect With Me
 
-Python FastAPI Flask
+<p align="center">
+  <a href="https://github.com/melvinrider010">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-</td> <td width="20%" valign="top">
+---
 
-Database
-
-Firebase PostgreSQL MongoDB MySQL
-
-</td> <td width="20%" valign="top">
-
-Tools
-
-Git Docker Android Studio VS Code Power BI
-
-</td> </tr> </table> <br> <img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0:30363D,100:30363D&height=1"/> <br>
-Featured Projects
-
-<sub>Descriptions, star/fork counts, and last-updated dates below are pulled live from the GitHub API each time this file is regenerated.</sub>
-
-<table width="100%"> <tr> <td width="50%" valign="top"> <blockquote>
-VoteX Enterprise
-
-Enterprise-grade voting system focused on reliability and data integrity at scale.
-
-Role Developer Stack Python · PostgreSQL Updated not yet synced · ⭐ 0 · Forks 0
-
-Repository →
-
-</blockquote> </td> <td width="50%" valign="top"> <blockquote>
-Financial Analysis Assistant
-
-Assistant for analyzing financial data to support faster, informed decision-making.
-
-Role Developer Stack Python · FastAPI Updated not yet synced · ⭐ 0 · Forks 0
-
-Repository →
-
-</blockquote> </td> </tr> <tr> <td width="50%" valign="top"> <blockquote>
-College ERP
-
-ERP system streamlining core academic and administrative workflows for a college.
-
-Role Developer Stack React · Next.js · MySQL Updated not yet synced · ⭐ 0 · Forks 0
-
-Repository →
-
-</blockquote> </td> <td width="50%" valign="top"> <blockquote>
-Nandini Milk Sales & Services
-
-Sales and service management system built for daily dairy operations.
-
-Role Developer Stack Flutter · Firebase Updated not yet synced · ⭐ 0 · Forks 0
-
-Repository →
-
-</blockquote> </td> </tr> </table> <br> <img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0:30363D,100:30363D&height=1"/> <br>
-GitHub Dashboard
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=melvinrider010&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=F0F6FC&hide_rank=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinrider010&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&langs_count=8"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=melvinrider010&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&hide_border=true"/> </div> <br>
-Live Language Breakdown
-
-<sub>Computed from bytes-of-code across all public repositories at sync time.</sub>
-
-Language	Share
-—	no public repositories with detected languages
-<br> <img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0:30363D,100:30363D&height=1"/> <br>
-Current Focus
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2200&pause=900&color=8B949E&center=true&vCenter=true&width=620&height=140&lines=%24+current-focus;Building+VoteX+Enterprise;Learning+AI+Engineering;Exploring+Distributed+Systems;Preparing+for+Software+Engineering+roles" alt="current-focus"/> </div> <br> <img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0:30363D,100:30363D&height=1"/> <br>
-Beyond Code
-<table width="100%"> <tr> <td align="center" width="20%">Artificial<br>Intelligence</td> <td align="center" width="20%">Cybersecurity</td> <td align="center" width="20%">Open<br>Source</td> <td align="center" width="20%">UI<br>Design</td> <td align="center" width="20%">Problem<br>Solving</td> </tr> </table> <br> <img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0:30363D,100:30363D&height=1"/> <br> <div align="center">
-Contact
-
-GitHub — @melvinrider010 LinkedIn — add your profile URL Portfolio — add your portfolio URL Email — add your email
-
-<br>
-
-<sub>Synced 2026-07-25 · 0 public repositories · auto-updated by GitHub Actions</sub>
-
-<br><br>
-
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:58A6FF&height=3&section=footer"/> </div>
+⭐ **This profile updates automatically using GitHub Actions.**
