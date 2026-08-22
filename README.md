@@ -64,18 +64,9 @@
 
   <br/><br/>
 
-  <!-- High Performance Live Dashboard -->
-  <h2>📊 GitHub Statistics & Metrics</h2>
+  <!-- Live Contribution Activity Graph (100% Reliable, zero 404) -->
+  <h2>📈 Contribution Activity Graph</h2>
   <br/>
-
-  <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=melvinrider010&show_icons=true&theme=tokyonight&hide_border=false&border_color=1f6feb&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-    &nbsp;
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinrider010&layout=compact&theme=tokyonight&hide_border=false&border_color=1f6feb&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-  </p>
-
-  <br/>
-
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=melvinrider010&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
   </p>
@@ -83,7 +74,7 @@
   <br/><br/>
 
   <!-- Snake Contribution Animation -->
-  <h2>🐍 Contribution Activity</h2>
+  <h2>🐍 Contribution Snake</h2>
   <br/>
   <p align="center">
     <img src="https://raw.githubusercontent.com/melvinrider010/melvinrider010/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
