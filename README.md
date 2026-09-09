@@ -86,17 +86,21 @@ My engineering work focuses on scalable data infrastructure, cross-platform mobi
   <br/>
 
   <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=melvinrider010&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9" alt="Melvin's Stats" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=melvinrider010&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9" alt="Melvin's Stats" />
     &nbsp;
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinrider010&layout=compact&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=melvinrider010&layout=compact&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" alt="Top Languages" />
   </p>
 
   <br/>
 
-  <h3>Contribution Activity Graph</h3>
+  <h3>GitHub Streak & Activity</h3>
   <br/>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=melvinrider010&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+    <img src="https://streak-stats.demolab.com/?user=melvinrider010&theme=tokyonight&hide_border=false&border_radius=8&border=00f5d4&background=0d1117&ring=00f5d4&fire=00f5d4" alt="GitHub Streak" />
+  </p>
+  <br/>
+  <p align="center">
+    <img src="https://ghchart.rshah.org/00f5d4/melvinrider010" width="100%" alt="Contribution Chart" />
   </p>
 
   <br/>
