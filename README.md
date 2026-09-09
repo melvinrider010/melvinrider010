@@ -107,6 +107,14 @@ My engineering work focuses on scalable data infrastructure, cross-platform mobi
     <img src="https://raw.githubusercontent.com/melvinrider010/melvinrider010/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
   </p>
 
+  <br/>
+
+  <h3>Recent GitHub Activity</h3>
+  <br/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
   <br/><br/>
 
   <h2>Connect</h2>
