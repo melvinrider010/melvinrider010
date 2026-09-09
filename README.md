@@ -86,9 +86,9 @@ My engineering work focuses on scalable data infrastructure, cross-platform mobi
   <br/>
 
   <p align="center">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=melvinrider010&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9" alt="Melvin's Stats" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=melvinrider010&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=false&border_color=00f5d4&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9" alt="Melvin's Stats" />
     &nbsp;
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=melvinrider010&layout=compact&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=melvinrider010&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=false&border_color=00f5d4&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" alt="Top Languages" />
   </p>
 
   <br/>
