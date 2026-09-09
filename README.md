@@ -113,6 +113,8 @@ My engineering work focuses on scalable data infrastructure, cross-platform mobi
   <br/>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/melvinrider010/CrowdSense/pull/1) in [melvinrider010/CrowdSense](https://github.com/melvinrider010/CrowdSense)
+2. 💪 Opened PR [#1](https://github.com/melvinrider010/CrowdSense/pull/1) in [melvinrider010/CrowdSense](https://github.com/melvinrider010/CrowdSense)
 <!--END_SECTION:activity-->
 
   <br/><br/>
