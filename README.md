@@ -100,7 +100,7 @@ My engineering work focuses on scalable data infrastructure, cross-platform mobi
   </p>
   <br/>
   <p align="center">
-    <img src="https://ghchart.rshah.org/00f5d4/melvinrider010" width="100%" alt="Contribution Chart" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=melvinrider010&theme=tokyonight&utcOffset=5.5" width="95%" alt="Productive Time Activity" />
   </p>
 
   <br/>
